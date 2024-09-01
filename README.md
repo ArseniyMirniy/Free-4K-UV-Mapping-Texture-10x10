@@ -9,7 +9,7 @@ Free and customizable UV mapping texture made in Blender and shared under [Creat
 [cc-by-image]: https://i.creativecommons.org/l/by/4.0/88x31.png
 [cc-by-shield]: https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg
 
-The texture has soft gradient makes working with it easier for your eyes even for hours in a row. I've tried to balance out the amount of color on the final image to preserve visibility of geometry details and issues that can be missed on pure gray or too vivid UV textures.
+The texture has soft gradient which makes working with it easier for your eyes even for hours in a row. I've tried to balance out the amount of color on the final image to preserve visibility of geometry details and issues that can be missed on pure gray or too vivid UV textures.
 
 Since I'm using it for real-world structures, it has 10×10 marked cells (instead of 8x8), and also .5 and .1 lines to allow pixel-perfect texturing.
 
